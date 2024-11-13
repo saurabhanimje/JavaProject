@@ -5,7 +5,7 @@ public class Demo
 
 	public void m1()
 	{
-		System.out.println("M1 Method");
+		System.out.println("M1111 Method");
 	}
 	public void m2()
 	{
@@ -23,7 +23,10 @@ public class Demo
 	{
 		System.out.println("M5 Method");
 	}
-	
+	public void m6()
+	{
+		System.out.println("M6 Method");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("Main Class");
